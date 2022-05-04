@@ -1,1 +1,0 @@
-arquivo teste para testar a comunicação entre a nuvem e a maquina

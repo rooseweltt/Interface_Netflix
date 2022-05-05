@@ -11,7 +11,7 @@
 
 body{
     background: var(--preto);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: arial;
     color: white;
 }
 
@@ -52,7 +52,7 @@ header nav a:hover{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
+    align-items:flex-start;
 }
 
 .filme-principal .container{
@@ -89,4 +89,14 @@ header nav a:hover{
 
 .botao i{
     margin-right: 8px;
+}
+
+.box-serie{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrossel-series{
+    margin-top: 10px;
 }
